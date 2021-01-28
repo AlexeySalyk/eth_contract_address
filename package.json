@@ -1,5 +1,5 @@
 {
-  "name": "eth_contract_address",
+  "name": "eth_contract_address_recovery",
   "version": "1.0.0",
   "description": "recovers ethereum smart contract address",
   "main": "index.js",

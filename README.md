@@ -1,12 +1,12 @@
-# eth_contract_address
+# eth_contract_address_recovery
 Recovers ethereum smart contract address
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install eth_contract_address.
+Use the package manager [npm](https://www.npmjs.com/) to install eth_contract_address_recovery.
 
 ```bash
-npm install eth_contract_address
+npm install eth_contract_address_recovery
 ```
 
 ## Usage
