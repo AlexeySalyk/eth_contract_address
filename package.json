@@ -1,6 +1,6 @@
 {
   "name": "eth_contract_address_recovery",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "recovers ethereum smart contract address",
   "main": "index.js",
   "dependencies": {
